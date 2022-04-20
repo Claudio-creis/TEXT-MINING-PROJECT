@@ -8,8 +8,8 @@ A max 150-word description of the project question or idea, goals, dataset used.
 Can use machine learning to develop a program that generates a song lyrics according to the genre wanted?
 
 ### Dataset
-Indie music: https://www.kaggle.com/datasets/pratiksaha198/lyrics-generation
-Lyrics with 79 genres: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres
+Indie music: https://www.kaggle.com/datasets/pratiksaha198/lyrics-generation.          
+Lyrics with 79 genres: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres.      
 Lyrics of 1000 songs with genres & more info: http://millionsongdataset.com/pages/getting-dataset/
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
