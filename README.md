@@ -15,15 +15,15 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 ### A tentative list of milestones for the project
 Week 1:
-- tokenize sentences, lemmatize and normalize
+- tokenize sentences, lemmatize and normalize. 
 Week 2: 
-- Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
+- Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/). 
 Week 3: 
-- Train the model and result analysis
+- Train the model and result analysis. 
 Week 4: 
-- Documentation
+- Documentation. 
 Week 5: 
-- Presentation
+- Presentation. 
 
 ### Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
