@@ -15,9 +15,9 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 ### A tentative list of milestones for the project
 - Week 1:
-tokenize sentences, lemmatize and normalize. 
+tokenize sentences, lemmatize and normalize (Davide and Claudio). 
 - Week 2: 
-Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/). 
+Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) (Davide and Claudio). 
 - Week 3: 
 Train the model and result analysis. 
 - Week 4: 
