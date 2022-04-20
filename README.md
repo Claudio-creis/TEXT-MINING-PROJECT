@@ -14,16 +14,16 @@ Lyrics of 1000 songs with genres & more info: http://millionsongdataset.com/page
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 ### A tentative list of milestones for the project
-Week 1:
-- tokenize sentences, lemmatize and normalize. 
-Week 2: 
-- Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/). 
-Week 3: 
-- Train the model and result analysis. 
-Week 4: 
-- Documentation. 
-Week 5: 
-- Presentation. 
+- Week 1:
+tokenize sentences, lemmatize and normalize. 
+- Week 2: 
+Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/). 
+- Week 3: 
+Train the model and result analysis. 
+- Week 4: 
+Documentation. 
+- Week 5: 
+Presentation. 
 
 ### Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
