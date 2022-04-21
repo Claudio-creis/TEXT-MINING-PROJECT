@@ -11,7 +11,6 @@ Indie music: https://www.kaggle.com/datasets/pratiksaha198/lyrics-generation.
 Lyrics with 79 genres: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres.      
 Lyrics of 1000 songs with genres & more info: http://millionsongdataset.com/pages/getting-dataset/.
 Genius data Lyrycs https://lyricsgenius.readthedocs.io/en/master/setup.html. 
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 ### A tentative list of milestones for the project
 - Week 1:
