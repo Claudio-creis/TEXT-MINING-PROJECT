@@ -25,4 +25,4 @@ Documentation [Davide and Claudio].
 Presentation [Davide and Claudio]. 
 
 ### Documentation
-This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
+The documentation will be added as the project will proceed through each milestone.
