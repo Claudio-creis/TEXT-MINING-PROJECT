@@ -14,15 +14,15 @@ Genius data Lyrycs https://lyricsgenius.readthedocs.io/en/master/setup.html.
 
 ### A tentative list of milestones for the project
 - Week 1:
-tokenize sentences, lemmatize and normalize (Davide and Claudio). 
+tokenize sentences, lemmatize and normalize [Davide and Claudio]. 
 - Week 2: 
-Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) (Davide and Claudio). 
+Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) [Davide and Claudio]. 
 - Week 3: 
-Train the model and result analysis. 
+Train the model and result analysis [Davide and Claudio]. 
 - Week 4: 
-Documentation. 
+Documentation [Davide and Claudio]. 
 - Week 5: 
-Presentation. 
+Presentation [Davide and Claudio]. 
 
 ### Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
