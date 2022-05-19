@@ -26,3 +26,4 @@ Presentation [Davide and Claudio].
 
 ### Documentation
 The documentation will be added as the project will proceed through each milestone.
+Help with poetry generation: https://www.youtube.com/watch?v=ZMudJXhsUpY
