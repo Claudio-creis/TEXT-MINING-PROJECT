@@ -12,17 +12,17 @@ Lyrics with 79 genres: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-fr
 Lyrics of 1000 songs with genres & more info: http://millionsongdataset.com/pages/getting-dataset/.
 Genius data Lyrycs https://lyricsgenius.readthedocs.io/en/master/setup.html. 
 
-### A tentative list of milestones for the project
+### Milestiones
 - Week 1:
-tokenize sentences, lemmatize and normalize [Davide and Claudio]. 
+Select and Transform the dataset from csv to txxt, lemmatize and tokenize  [Davide and Claudio]. 
 - Week 2: 
-Clustering & topic modeling (https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/) [Davide and Claudio]. 
+Dataset analysis, word cluset and bar chart, build the LSTM model [Davide and Claudio]. 
 - Week 3: 
-Train the model and result analysis [Davide and Claudio]. 
+Build the Markov, combine and train the two models, building the survey [Davide and Claudio]. 
 - Week 4: 
-Documentation [Davide and Claudio]. 
+Evaluation of our findings, Presentation [Davide and Claudio]. 
 - Week 5: 
-Presentation [Davide and Claudio]. 
+Writing the report [Davide and Claudio]. 
 
 ### Documentation
 The documentation will be added as the project will proceed through each milestone.
