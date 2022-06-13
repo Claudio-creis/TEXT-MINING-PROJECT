@@ -18,7 +18,7 @@ The dataset used can be found in our repository. Just in case here is the link t
 - Week 1:
 Select and Transform the dataset from csv to txxt, lemmatize and tokenize  [Davide and Claudio]. 
 - Week 2: 
-Dataset analysis, word cluset and bar chart, build the LSTM model [Davide and Claudio]. 
+Dataset analysis, word cluster and bar chart, build the LSTM model [Davide and Claudio]. 
 - Week 3: 
 Build the Markov, combine and train the two models, building the survey [Davide and Claudio]. 
 - Week 4: 
