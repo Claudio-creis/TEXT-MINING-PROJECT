@@ -41,7 +41,13 @@ The dataset used can be found in our repository. Just in case here is the link t
 
 ### Documentation
 
-Neizer et al. (2009) generate Haiku with Word Association Norms, 
-Agirrezabal et al. (2013) compose Basque poems using patterns based on parts of speech and WordNet 
-(Fellbaum,1998), and Oliveira (2012) presents a generation algorithm for Portuguese which leverages semantic and grammar templates.
-Hugo Gonçalo Oliveira. 2012. PoeTryMe: a Versatile Platform for Poetry Generation. ComputationalCreativity, Concept INvention, and General Intelli-gence. 
+Cruys, T. V. de. (2020, May 24). Automatic Poetry Generation from Prosaic Text. GitHub. https://github.com/timvdc/poetry 
+Dolphin, R. (2021, March 26). LSTM Networks | A Detailed Explanation. Medium. https://towardsdatascience.com/lstm-networks-a-detailed-explanation-8fae6aefc7f9 
+Hirjee, H., & Brown, D. (2010). Using Automated Rhyme Detection to Characterise Rhyming Style in Rap Music. Empirical Musicology Review, 5(4), 121–145. https://doi.org/10.18061/1811/48548 
+Markov Models for Text Analysis. (n.d.). Www.stat.purdue.edu. Retrieved June 2, 2022, from https://www.stat.purdue.edu/~mdw/CSOI/MarkovLab.html 
+OLIVEIRA, H. G., HERVÁS, R., DÍAZ, A., & GERVÁS, P. (2017). Multilingual extension and evaluation of a poetry generator. Natural Language Engineering, 23(6), 929–967. https://doi.org/10.1017/s1351324917000171 
+Potash, P., Romanov, A., & Rumshisky, A. (2015). GhostWriter: Using an LSTM for Automatic Rap Lyric Generation (pp. 17–21). Association for Computational Linguistics. https://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP221.pdf 
+Potash, P., Romanov, A., & Rumshisky, A. (2016). Evaluating Creative Language Generation: The Case of Rap Lyric Ghostwriting. https://arxiv.org/pdf/1612.03205.pdf 
+Ying, K. (2020). Coding a bot to generate new lyrics using Markov Chains. www.youtube.com.  https://youtu.be/UtAgC6zCwME 
+Zhang, X., & Lapata, M. (2014). Chinese Poetry Generation with Recurrent Neural Networks (pp. 670–680). Association for Computational Linguistics. https://aclanthology.org/D14-10
+
