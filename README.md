@@ -28,16 +28,16 @@ The dataset used can be found in our repository. Just in case here is the link t
 - Presentation sildes [Davide and Claudio]. 
 - Week 5: 
 - Writing the report [Davide and Claudio]:
--- Abstract [Davide]
--- Introduction [Davide]
--- Related work [Claudio]
--- Dataset description [Davide]
--- LSTM Model [Claudio]
--- Markov Model [Claudio]
--- Modelling and rhymes [Claudio]
--- Ablation Study [Claudio]
--- Survey Findings [Davide] 
--- Conclusion [Davide]
+- Abstract [Davide]
+- Introduction [Davide]
+- Related work [Claudio]
+- Dataset description [Davide]
+- LSTM Model [Claudio]
+- Markov Model [Claudio]
+- Modelling and rhymes [Claudio]
+- Ablation Study [Claudio]
+- Survey Findings [Davide] 
+- Conclusion [Davide]
 
 ### Documentation
 
