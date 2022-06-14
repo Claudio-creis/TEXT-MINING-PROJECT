@@ -16,15 +16,28 @@ The dataset used can be found in our repository. Just in case here is the link t
 ### Milestiones
 
 - Week 1:
-Select and Transform the dataset from csv to txxt, lemmatize and tokenize  [Davide and Claudio]. 
-- Week 2: 
-Dataset analysis, word cluster and bar chart, build the LSTM model [Davide and Claudio]. 
-- Week 3: 
-Build the Markov, combine and train the two models, building the survey [Davide and Claudio]. 
-- Week 4: 
-Evaluation of our findings, Presentation [Davide and Claudio]. 
+- Select the dataset, tokenzation and word cluster [Davide]
+- Dataset's bar chart [Claudio]
+- Week 2:
+- Building the LSTM model and training it on a smaller fraction of the txt file [Claudio]
+- Combining the two models thorugh vectors from word embeddings [Davide] 
+- Week 3:
+- Training the two models, debug rhyme problems and adapt the code to the dataset [Davide and Claudio]  
+- Ablation study and analysis of the study [Claudio]
+- Survey making and findings analysis [Davide] 
+- Presentation sildes [Davide and Claudio]. 
 - Week 5: 
-Writing the report [Davide and Claudio]. 
+- Writing the report [Davide and Claudio]:
+-- Abstract [Davide]
+-- Introduction [Davide]
+-- Related work [Claudio]
+-- Dataset description [Davide]
+-- LSTM Model [Claudio]
+-- Markov Model [Claudio]
+-- Modelling and rhymes [Claudio]
+-- Ablation Study [Claudio]
+-- Survey Findings [Davide] 
+-- Conclusion [Davide]
 
 ### Documentation
 
