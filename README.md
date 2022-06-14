@@ -20,7 +20,7 @@ The dataset used can be found in our repository. Just in case here is the link t
 - Dataset's bar chart [Claudio]
 - Week 2:
 - Building the LSTM model and training it on a smaller fraction of the txt file [Claudio]
-- Combining the two models thorugh vectors from word embeddings [Davide] 
+- Combining the two models through vectors from word embeddings [Davide] 
 - Week 3:
 - Training the two models, debug rhyme problems and adapt the code to the dataset [Davide and Claudio]  
 - Ablation study and analysis of the study [Claudio]
