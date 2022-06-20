@@ -13,6 +13,10 @@ Can an LSTM and a Markov model write human-created rap lyrics?
 
 The dataset used can be found in our repository. Just in case here is the link to it: https://github.com/Claudio-creis/TEXT-MINING-PROJECT/blob/main/Bars.txt
 
+## Information
+
+Before running the code (Final Code) download the file Bars.txt on your computer or use any txt dataset that you want to run the code
+
 ### Survey
 
 This is the link to the Survey, in case you want to contribute to our research https://docs.google.com/forms/d/e/1FAIpQLSfjeZkD1NCHf9negZpGPSjgUruBzFZV5oyLs3JULF7931D3tA/viewform?usp=sf_link
