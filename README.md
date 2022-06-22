@@ -28,7 +28,7 @@ This is the link to the Survey, in case you want to contribute to our research h
 - Dataset's bar chart [Claudio]
 - Week 2:
 - Building the LSTM model and training it on a smaller fraction of the txt file [Claudio]
-- Combining the two models through vectors from word embeddings [Davide] 
+- Filtering lines with the lstm model [Davide] 
 - Week 3:
 - Training the two models, debug rhyme problems and adapt the code to the dataset [Davide and Claudio]  
 - Ablation study and analysis of the study [Claudio]
